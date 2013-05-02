@@ -1,8 +1,8 @@
 /*
 ---
 
-name: CanvassLoader
-provides: [CanvassLoader]
+name: CanvasLoader
+provides: [CanvasLoader]
 
 ...
 */
