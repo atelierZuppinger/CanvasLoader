@@ -1,0 +1,10 @@
+name: CanvassLoader
+author: fingerflow
+current: 3.0.0pre
+tags: [Form, Input]
+copyright: "&copy; [Arian Stolwijk](http://www.aryweb.nl) and [MonkeyPhysics.com](http://monkeyphysics.com)"
+license: MIT
+description: Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+
+sources:
+  - js/heartcode-canvasloader.js
